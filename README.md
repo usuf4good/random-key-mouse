@@ -3,10 +3,10 @@
 This Python script automates the process of generating random strings, typing them out, and moving the mouse pointer randomly. It can be used to simulate user activity or for other automation purposes.
 
 # Features
-Generates random alphanumeric strings.
-Types out the random string character by character.
-Randomly moves the mouse pointer on the screen to simulate activity.
-Configurable delays between typing and mouse movements.
+1. Generates random alphanumeric strings.
+2. Types out the random string character by character.
+3. Randomly moves the mouse pointer on the screen to simulate activity.
+4. Configurable delays between typing and mouse movements.
 
 # Requirements
 Before you run this script, make sure you have the following requirements installed:
